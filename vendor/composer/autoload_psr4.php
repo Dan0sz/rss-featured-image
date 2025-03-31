@@ -6,5 +6,5 @@ $vendorDir = dirname(__DIR__);
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Daan\\RssFeaturedImage\\' => array($baseDir . '/src'),
+    'Daan\\RSSFeaturedImage\\' => array($baseDir . '/src'),
 );
